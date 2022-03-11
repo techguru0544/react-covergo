@@ -6,3 +6,4 @@ Overview of project:
 - Used react router v6 for routing of wizard
 - Use Memo where necessary
 ```
+Viraj
